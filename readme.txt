@@ -1,0 +1,1 @@
+to open, run RazerBot.sln with Visual Studio 2019
